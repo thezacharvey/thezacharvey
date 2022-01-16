@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thezacharvey
-- 👀 I’m interested in mobile development
+- 👀 I’m interested in game, mobile, and web development
 - 🌱 I’m currently learning the Flutter Framework
-- 💞️ I’m looking to collaborate on mobile stuff!
+- 💞️ I’m looking to collaborate on anything fun!
 - 📫 How to reach me : mr.zachary.harvey@gmail.com
 
 <!---
